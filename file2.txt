@@ -1,1 +1,2 @@
 ini file2. txt
+baris ke 2 difile2.txt
